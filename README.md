@@ -320,17 +320,6 @@ Including:
 
 ---
 
-# 👨‍💻 Authors
-
-| Name                | Contribution               |
-| ------------------- | -------------------------- |
-| Muhammad Jalal      | Model Training & Research  |
-| Ali Murad           | UI Implementation          |
-| Muhammad Obaidullah | Data Engineering           |
-| Hamdan Tariq        | Alternative Model Training |
-| Faizan Shah Bukhari | GUI & Presentation         |
-
----
 
 # ⭐ Support
 
